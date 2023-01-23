@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MongoCRUD", "MongoCRUD\MongoCRUD.csproj", "{F9691D5F-20BA-454A-B219-832A59366114}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUDRepository", "CRUDRepository\CRUDRepository.csproj", "{99418136-ED4B-4922-B002-23C9871087B4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUDBusiness", "CRUDBusiness\CRUDBusiness.csproj", "{163A803D-DD4D-4C8E-A223-6125BB223765}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUDModel", "CRUDModel\CRUDModel.csproj", "{CF3AEE1C-C571-44A3-8688-9D6E08739238}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleTest", "ConsoleTest\ConsoleTest.csproj", "{B0459DE7-2AC6-4D04-B32C-E37622E4E218}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{841BC5DF-F45D-4D36-A13D-BC432BB1F7FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiController", "ApiController\ApiController.csproj", "{4845BD57-7B33-4F3A-92AF-B4B7266E5B44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9691D5F-20BA-454A-B219-832A59366114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9691D5F-20BA-454A-B219-832A59366114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9691D5F-20BA-454A-B219-832A59366114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9691D5F-20BA-454A-B219-832A59366114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99418136-ED4B-4922-B002-23C9871087B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99418136-ED4B-4922-B002-23C9871087B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99418136-ED4B-4922-B002-23C9871087B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99418136-ED4B-4922-B002-23C9871087B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{163A803D-DD4D-4C8E-A223-6125BB223765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{163A803D-DD4D-4C8E-A223-6125BB223765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{163A803D-DD4D-4C8E-A223-6125BB223765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{163A803D-DD4D-4C8E-A223-6125BB223765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF3AEE1C-C571-44A3-8688-9D6E08739238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF3AEE1C-C571-44A3-8688-9D6E08739238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF3AEE1C-C571-44A3-8688-9D6E08739238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF3AEE1C-C571-44A3-8688-9D6E08739238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0459DE7-2AC6-4D04-B32C-E37622E4E218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0459DE7-2AC6-4D04-B32C-E37622E4E218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0459DE7-2AC6-4D04-B32C-E37622E4E218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0459DE7-2AC6-4D04-B32C-E37622E4E218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{841BC5DF-F45D-4D36-A13D-BC432BB1F7FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{841BC5DF-F45D-4D36-A13D-BC432BB1F7FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{841BC5DF-F45D-4D36-A13D-BC432BB1F7FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{841BC5DF-F45D-4D36-A13D-BC432BB1F7FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4845BD57-7B33-4F3A-92AF-B4B7266E5B44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4845BD57-7B33-4F3A-92AF-B4B7266E5B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4845BD57-7B33-4F3A-92AF-B4B7266E5B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4845BD57-7B33-4F3A-92AF-B4B7266E5B44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5638769-D85C-4D0A-AF08-A1FD578B7BC8}
+	EndGlobalSection
+EndGlobal
